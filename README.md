@@ -4,3 +4,4 @@
 ## 3. Checkout to a branch
 ## 4. Add changes
 ## 5. Commit to your changes
+## 6. Push to new branch in remote

@@ -1,0 +1,7 @@
+{
+  "name": "how-to-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dimitri Kamenski",
+  "license": "MIT"
+}

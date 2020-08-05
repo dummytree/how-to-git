@@ -6,4 +6,4 @@
 ## 5. Commit to your changes
 ## 6. Push to new branch in remote
 
-Acknowledgements: Dimitri, Abhi, Prince, Harsh, Gunveet, Keshav
+Acknowledgements: Dimitri, Abhi, Prince, Harsh, Gunveet, Keshav, Abhi, Julian, Xinru, Mitesh, Yugandhar
